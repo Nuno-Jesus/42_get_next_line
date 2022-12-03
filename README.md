@@ -53,6 +53,7 @@ This project does not hold a Makefile for compilation, but in case you have a `m
 $ cc -Wall -Wextra -Werror main.c (REPLACE BY PATH TO THIS FOLDER)/*.c
 ```
 
+Dont forget to include the `.h` files!
 
 ## 💫 **Testing**
 
