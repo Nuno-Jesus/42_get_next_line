@@ -3,7 +3,7 @@ This project was graded <strong>125/100</strong>.
 
 
 ## 📒 **About**
-> In this project you will implement a very useful function, that exists in higher level languages, but not in C. You must read a line from a given file descriptor (including the line break) and return it in a new allocated string. Yes, you will find it very boring to do, but it will come in handy at the right moment.
+In this project you will implement a very useful function, that exists in higher level languages, but not in C. You must read a line from a given file descriptor (including the line break) and return it in a new allocated string. Yes, you will find it very boring to do, but it will come in handy at the right moment. You'll learn about static variables, the read() and open() functions and file descriptors.
 
 
 ## 🔧 **Implementation**
